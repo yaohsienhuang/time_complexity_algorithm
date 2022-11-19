@@ -29,8 +29,11 @@
 
 - 在演算法中，log n 的慣例指的是以 2 為底的意思，也就是 2 的幾次方。
 > bubble sort : https://ithelp.ithome.com.tw/articles/10276184
+
 > 參考:https://pjchender.dev/dsa/algo-intro/
+
 > 參考:https://towardsdatascience.com/understanding-time-complexity-with-python-examples-2bda6e8158a7
+
 > 生動的例子:https://ithelp.ithome.com.tw/articles/10228248
 
 ### Space Complexity
